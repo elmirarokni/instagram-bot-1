@@ -55,3 +55,4 @@ targetAccounts.js Array.
 
 Contact me with any questions:
 [hughbowie@me.com](mailto:hughbowie@me.com)<br />[GitHub](https://github.com/hugh-bowie)<br />
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
