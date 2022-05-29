@@ -1,1 +1,1 @@
-worker: npm install dotenv fs-extra puppeteer puppeteer-extra puppeteer-extra-plugin-stealth && node test.js
+worker: npm install dotenv fs-extra puppeteer puppeteer-extra puppeteer-extra-plugin-stealth && node ig.js
