@@ -15,6 +15,7 @@ puppeteer.use(StealthPlugin());
 		//----initialize
 		const browser = await puppeteer.launch({ headless: true, args: ['--incognito', '--no-sandbox', '--disable-setuid-sandbox'] });
 		const page = await browser.newPage();
+		await page.setDefaultNavigationTimeout(0);
 		await page.emulate(device);
 
 		//----login
