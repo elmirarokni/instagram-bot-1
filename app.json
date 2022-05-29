@@ -19,6 +19,16 @@
 		"update": "npm install dotenv fs-extra puppeteer puppeteer-extra puppeteer-extra-plugin-stealth",
 		"save": "git add . && git commit -m 'auto save' && git push origin main"
 	},
+	"env":{
+      "DKS":{
+        "description" : "your instagram username",
+        "value":"postperpet"
+      },
+      "PW":{
+        "description" : "your instagram password",
+        "value":"UPryZD3SVizGF9x"
+      }
+    },
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
