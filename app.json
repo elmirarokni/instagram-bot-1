@@ -3,6 +3,11 @@
 	"version": "1.2.13",
 	"description": "puppeteer",
 	"main": "test.js",
+	  "buildpacks": [
+	    {
+	      "url": "jontewks/puppeteer"
+	    }
+	  ],
 	"scripts": {
 		"test": "node test.js",
 		"schedule": "node schedule.js",
