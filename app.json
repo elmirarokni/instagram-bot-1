@@ -8,7 +8,7 @@
 	      "url": "heroku/nodejs"
 	    },
 	    {
-	      "url": "jontewks/puppeteer"
+	      "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git"
 	    }
 	  ],
 	"scripts": {
