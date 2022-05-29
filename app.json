@@ -5,6 +5,9 @@
 	"main": "test.js",
 	  "buildpacks": [
 	    {
+	      "url": "heroku/nodejs"
+	    },
+	    {
 	      "url": "jontewks/puppeteer"
 	    }
 	  ],
