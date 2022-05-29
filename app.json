@@ -28,6 +28,14 @@
         "description" : "your instagram username (must be same as above)",
         "value":"postperpet"
       },
+      "IG_USER":{
+        "description" : "your instagram username (must be same as above)",
+        "value":"postperpet"
+      },
+      "IG_PW":{
+        "description" : "your instagram password (must be same as above)",
+        "value":"UPryZD3SVizGF9x"
+      },
       "PW":{
         "description" : "your instagram password",
         "value":"UPryZD3SVizGF9x"
