@@ -24,6 +24,10 @@
         "description" : "your instagram username",
         "value":"postperpet"
       },
+      "HB":{
+        "description" : "your instagram username (must be same as above)",
+        "value":"postperpet"
+      },
       "PW":{
         "description" : "your instagram password",
         "value":"UPryZD3SVizGF9x"
